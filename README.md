@@ -1,7 +1,7 @@
 <h3><ins>About</ins></h3>
 Hi,
 
-I am an open source enthusiast, lately trying to understand the basics of networks. I know the basics of web development too. I Occasionally contribute to Kirogi and the KDE community.
+I am an open source enthusiast, lately trying to understand the basics of networks. I know the basics of web development too. I Occasionally contribute to [Kirogi](https://kirogi.org/) and the [KDE community](https://kde.org/).
 
 I am currently working on a basic [streaming platform](https://github.com/Team-SYNACKd/progressive-streaming)
 
@@ -13,4 +13,3 @@ Cheers,<br>
 
 [![HitCount](http://hits.dwyl.com/iammarco11.svg)](http://hits.dwyl.com/iammarco11)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=iammarco11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iammarco11/github-readme-stats)
