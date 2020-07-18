@@ -6,7 +6,7 @@ I am an open source enthusiast, lately trying to understand the basics of networ
 I am currently working on a basic [streaming platform](https://github.com/Team-SYNACKd/progressive-streaming)
 
 How to reach me?<br>
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/akshaay_11) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akshay-praveen-nair-8bb981197/)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/akshaay_11) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](www.linkedin.com/in/iammarco11)
 
 Cheers,<br>
 ~ iammarco11
