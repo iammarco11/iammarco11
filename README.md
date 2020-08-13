@@ -9,7 +9,5 @@ How to reach me?<br>
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/akshaay_11) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](www.linkedin.com/in/iammarco11)
 
 Cheers,<br>
-~ iammarco11
-
-[![HitCount](http://hits.dwyl.com/iammarco11.svg)](http://hits.dwyl.com/iammarco11)
+~ iammarco11 \o/
 
