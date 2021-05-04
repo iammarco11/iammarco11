@@ -1,7 +1,7 @@
 <h3><ins>About</ins></h3>
 Hi,
 
-I am an open source enthusiast, lately trying to understand the basics of networks. I know the basics of web development too. I Occasionally contribute to [Kirogi](https://kirogi.org/) and the [KDE community](https://kde.org/).
+I am an open source enthusiast, lately trying to understand the basics of networks. I know the basics of web development too. Right now I contribute to [@openworm](https://github.com/devoworm). I Occasionally contribute to [Kirogi](https://kirogi.org/) and the [KDE community](https://kde.org/).
 
 I am currently working on a basic [streaming platform](https://github.com/Team-SYNACKd/progressive-streaming)
 
